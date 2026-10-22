@@ -16,17 +16,20 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Aryant-Tripathi&theme=radical" alt="Aryant-Tripathi" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=AryantTripathi&theme=radical" alt="AryantTripathi" />
     </a>
    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-     <img src="https://github-readme-stats.vercel.app/api?username=Aryant-Tripathi&show_icons=true&theme=radical&rank_icon=percentile" alt="Aryant-Tripathi" height="165px" />
+     <img src="https://github-readme-stats.vercel.app/api?username=AryantTripathi&show_icons=true&theme=radical&rank_icon=percentile" alt="AryantTripathi" height="165px" />
  </a>
 </p>
 
 <h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryant-Tripathi&theme=rogue" alt="Contribution Graph" width="100%" />
-</p>
+<img
+    src="https://gitblend.com/api/contributions/github?username=AryantTripathi&theme=github"
+    alt="AryantTripathi's Contribution Graph"
+    width="100%"
+  /></p>
 
 <h2 align="center">🌟 Wisdom of the Ages</h2>
 <p align="center">
@@ -36,7 +39,7 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Aryant-Tripathi/Sorting-Visualizer" title="Sorting-Visualizer"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryant-Tripathi&repo=Sorting-Visualizer&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Aryant-Tripathi/Keeper_web" title="Keeper_web"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryant-Tripathi&repo=Keeper_web&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/AryantTripathi/Sorting-Visualizer" title="Sorting-Visualizer"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AryantTripathi&repo=Sorting-Visualizer&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/AryantTripathi/Keeper_web" title="Keeper_web"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AryantTripathi&repo=Keeper_web&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
@@ -45,7 +48,7 @@
   <a href="https://www.linkedin.com/in/aryant-tripathi-bb83b0193/" style="border-radius: 12px; overflow: hidden; display: inline-block;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Aryant-Tripathi" style="border-radius: 12px; overflow: hidden; display: inline-block;">
+  <a href="https://github.com/AryantTripathi" style="border-radius: 12px; overflow: hidden; display: inline-block;">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://leetcode.com/u/aryanttripathi/" style="border-radius: 12px; overflow: hidden; display: inline-block;">
@@ -57,5 +60,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aryant-Tripathi&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AryantTripathi&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
